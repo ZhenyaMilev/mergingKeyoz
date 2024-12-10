@@ -1,0 +1,163 @@
+{
+  "sections": {
+    "collection-banner": {
+      "type": "collection-banner",
+      "settings": {
+        "color_scheme": "",
+        "image_size": "xs",
+        "allow_transparent_header": true,
+        "reveal": true,
+        "enable_parallax": true,
+        "show_image": true,
+        "show_collection_title": true,
+        "show_collection_description": true,
+        "show_breadcrumb": true,
+        "content_width": "xs",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "ss_circle_menu_YjX4ky": {
+      "type": "ss-circle-menu",
+      "blocks": {
+        "image_VjHHLL": {
+          "type": "Image",
+          "settings": {
+            "bubble_img": "shopify:\/\/shop_images\/icon_kelyoz_4.jpg",
+            "bubble_text": "Rings",
+            "bubble_link": "shopify:\/\/collections\/rings"
+          }
+        },
+        "image_xhQHNM": {
+          "type": "Image",
+          "settings": {
+            "bubble_img": "shopify:\/\/shop_images\/icon_kelyoz_3.jpg",
+            "bubble_text": "Necklaces",
+            "bubble_link": "shopify:\/\/collections\/necklaces"
+          }
+        },
+        "image_FfKeG9": {
+          "type": "Image",
+          "settings": {
+            "bubble_img": "shopify:\/\/shop_images\/icon_kelyoz_1.jpg",
+            "bubble_text": "Earrings",
+            "bubble_link": "shopify:\/\/collections\/earrings"
+          }
+        },
+        "image_gPVdtF": {
+          "type": "Image",
+          "settings": {
+            "bubble_img": "shopify:\/\/shop_images\/icon_kelyoz_2.jpg",
+            "bubble_text": "Bracelets",
+            "bubble_link": "shopify:\/\/collections\/bracelets"
+          }
+        }
+      },
+      "block_order": [
+        "image_VjHHLL",
+        "image_xhQHNM",
+        "image_FfKeG9",
+        "image_gPVdtF"
+      ],
+      "settings": {
+        "slider_width": 100,
+        "slider_gap": 16,
+        "slider_gap_mobile": 12,
+        "icon_size": 78,
+        "icon_size_mobile": 68,
+        "icon_space": 0,
+        "icon_space_mobile": 0,
+        "icon_border_thickness": 1,
+        "icon_square": false,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 12,
+        "text_size_mobile": 10,
+        "text_height": 130,
+        "text_mt": 8,
+        "icon_border_color": "#000000",
+        "icon_border_gradient": "",
+        "text_color": "#ffffff",
+        "background_color": "#1c1c1c",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "border_gradient": "",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 150,
+        "border_thickness": 0,
+        "lazy": true,
+        "hide_mobile": false,
+        "hide_desktop": true
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "color_scheme": "",
+        "hide_product_information": false,
+        "products_per_page": 48,
+        "products_per_row_mobile": "2",
+        "products_size_desktop": "medium",
+        "show_grid_mode_selector": true,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "filter_layout": "sidebar",
+        "quick_links_menu": "",
+        "show_sort_by": true,
+        "show_filters": false,
+        "show_results_count": true,
+        "show_filter_group_name": false,
+        "show_filter_values_count": true,
+        "open_filters_by_default": false
+      }
+    },
+    "image_with_text_overlay_CDmMbT": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_CpEbGn": {
+          "type": "heading",
+          "settings": {
+            "text": "Just a few hours left...",
+            "heading_tag": "h4"
+          }
+        },
+        "richtext_XmK4d9": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>&gt; Buy 2, Get 1 FREE<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_CpEbGn",
+        "richtext_XmK4d9"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "sm",
+        "image": "shopify:\/\/shop_images\/joconde_collection_deskop.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/LaJoconde_C2_A9Mardi8_ArtisansdIdees_2021.webp",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-start-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    }
+  },
+  "order": [
+    "collection-banner",
+    "ss_circle_menu_YjX4ky",
+    "main",
+    "image_with_text_overlay_CDmMbT"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "custom_liquid_THLyPA": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<!-- Section: Black Friday Banner -->\n<div style=\"background-color: #000000; color: #ffffff; text-align: center; padding: 15px 20px; font-family: 'Oswald', Arial, sans-serif; font-weight: normal; line-height: 1.4; letter-spacing: 0.5px;\">\n  <span style=\"font-size: 15px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;\">BLACK FRIDAY ⚡ Biggest sale of the year<\/span>\n  <br>\n  <span style=\"font-size: 12px; font-weight: 400; letter-spacing: 0.5px;\">BUY 2, GET 2 FREE & UP TO 70% OFF｜Use code \"<strong>BLACKFRIDAY<\/strong>\"<\/span>\n<\/div>\n\n<!-- Add Google Fonts for Oswald -->\n<link href=\"https:\/\/fonts.googleapis.com\/css2?family=Oswald:wght@400;700&display=swap\" rel=\"stylesheet\">",
+        "text_alignment": "center"
+      }
+    },
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message-1": {
+          "type": "message",
+          "settings": {
+            "text": "FREE SHIPPING WORLDWIDE | Limited stock, no restock"
+          }
+        }
+      },
+      "block_order": [
+        "message-1"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "enable_sticky": true,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "desktop_font_size": 11,
+        "mobile_font_size": 10
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "color_scheme": "",
+        "enable_sticky": false,
+        "hide_on_scroll": false,
+        "show_separation_border": true,
+        "reduce_padding": true,
+        "logo": "{{ shop.brand.logo }}",
+        "logo_max_width": 140,
+        "logo_mobile_max_width": 130,
+        "menu": "main-menu",
+        "sidebar_menu": "main-menu",
+        "menu_open_trigger": "hover",
+        "enable_search": true,
+        "sidebar_color_scheme": "",
+        "sidebar_text_font": "heading",
+        "sidebar_show_dividers": true,
+        "layout": "logo_left_navigation_inline",
+        "show_icons": true,
+        "show_country_selector": true,
+        "show_country_name": false,
+        "show_country_flag": true,
+        "show_locale_selector": false,
+        "transparent_header_text_color": "#ffffff",
+        "transparent_logo": "shopify:\/\/shop_images\/kelyoz_blanc.png"
+      }
+    }
+  },
+  "order": [
+    "custom_liquid_THLyPA",
+    "announcement-bar",
+    "header"
+  ]
+}

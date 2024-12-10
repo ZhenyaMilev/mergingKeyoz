@@ -1,0 +1,1389 @@
+{
+  "sections": {
+    "slideshow_4jGRTe": {
+      "type": "slideshow",
+      "blocks": {
+        "video_jpetEk": {
+          "type": "video",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/Copie de Reel Instagram Black Friday Élégant (1).mp4",
+            "mobile_video": "shopify:\/\/files\/videos\/Reel Instagram Black Friday Élégant (4) (1).mp4",
+            "allow_sound": true,
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/collections\/best-sellers",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 0,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(NaN, NaN, NaN, 0), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        }
+      },
+      "block_order": [
+        "video_jpetEk"
+      ],
+      "disabled": true,
+      "settings": {
+        "allow_transparent_header": false,
+        "show_next_section_button": false,
+        "media_size": "fill",
+        "show_initial_transition": false,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)",
+        "controls_color": "#ffffff"
+      }
+    },
+    "slideshow_rJfUqG": {
+      "type": "slideshow",
+      "blocks": {
+        "image_3NrQpV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gifting_season_banniere_82dc0edf-cb55-4a33-a0f3-78d09dcf6abf.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/gifting_season_banniere_mobil.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 0,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        }
+      },
+      "block_order": [
+        "image_3NrQpV"
+      ],
+      "settings": {
+        "allow_transparent_header": false,
+        "show_next_section_button": true,
+        "media_size": "auto",
+        "show_initial_transition": false,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#000000",
+        "controls_color": "#ffffff"
+      }
+    },
+    "featured_collections_Bpn3hg": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_cLUAd8": {
+          "type": "collection",
+          "settings": {
+            "collection": "new-arrivals",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_cLUAd8"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "Discover our latest creations"
+      }
+    },
+    "ss_video_banner_2_3AckzX": {
+      "type": "ss-video-banner-2",
+      "disabled": true,
+      "settings": {
+        "banner_height": "adapt_first",
+        "banner_fixed_height": 620,
+        "banner_fixed_height_mobile": 500,
+        "banner_padding_vertical": 20,
+        "banner_padding_vertical_mobile": 20,
+        "banner_padding_horizontal": 16,
+        "banner_padding_horizontal_mobile": 16,
+        "banner_radius": 0,
+        "banner_border_thickness": 0,
+        "banner_overlay": 0.2,
+        "url": "",
+        "bg_type": "video",
+        "video": "shopify:\/\/files\/videos\/Reel Instagram Black Friday Élégant.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "media_row": false,
+        "media_width": 20,
+        "media_height": 400,
+        "media_mt": 20,
+        "align_content": "end",
+        "align_content_mobile": "end",
+        "title": "",
+        "title_custom": true,
+        "title_font": "josefin_sans_n4",
+        "title_size": 36,
+        "title_size_mobile": 24,
+        "title_height": 130,
+        "title_mt": 4,
+        "text": "",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 16,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "arrow_size_mobile": 10,
+        "arrow_size": 10,
+        "action_size_mobile": 60,
+        "action_size": 60,
+        "banner_bg_color": "rgba(0,0,0,0)",
+        "banner_border_color": "rgba(0,0,0,0)",
+        "title_color": "#ffffff",
+        "text_color": "#ffffff",
+        "arrow_color": "rgba(0,0,0,0)",
+        "action_bg_color": "#ffffff",
+        "action_arrow_color": "#000000",
+        "background_color": "rgba(0,0,0,0)",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 160,
+        "border_thickness": 0,
+        "lazy": false
+      }
+    },
+    "ss_scrolling_logo_cloud_XPbAYF": {
+      "type": "ss-scrolling-logo-cloud",
+      "blocks": {
+        "slide_gtHDb4": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_1.png",
+            "link": ""
+          }
+        },
+        "slide_Aatxtp": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "link": ""
+          }
+        },
+        "slide_8CPFrp": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "link": ""
+          }
+        },
+        "slide_9wbggM": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_1.png",
+            "link": ""
+          }
+        },
+        "slide_txFC6N": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_1.png",
+            "link": ""
+          }
+        },
+        "slide_qrCj8h": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6_1.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_gtHDb4",
+        "slide_Aatxtp",
+        "slide_8CPFrp",
+        "slide_9wbggM",
+        "slide_txFC6N",
+        "slide_qrCj8h"
+      ],
+      "settings": {
+        "ss-title": "AS SEEN ON",
+        "heading_custom": true,
+        "heading_font": "futura_n4",
+        "header_size": 18,
+        "header_align": "center",
+        "scrolling_velocity": 80,
+        "pause_hover": false,
+        "shadow": false,
+        "sliders_mt": 0,
+        "logo_padding_top": 0,
+        "logo_padding_bottom": 0,
+        "slider_gap": 88,
+        "slider_gap_mobile": 54,
+        "slider_direction": "left",
+        "icon_width": 110,
+        "header_color": "#ffffff",
+        "border_color": "#1c1c1c",
+        "background-color": "#1c1c1c",
+        "slider-background-color": "#1c1c1c",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "full_width": true,
+        "content_width": 160,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "collection_list_WFrB84": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_qai9bR": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "necklaces",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "Necklaces",
+            "button_text": "View",
+            "button_link": "shopify:\/\/collections\/necklaces",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_njReaq": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "bracelets",
+            "image": "shopify:\/\/shop_images\/kronos_bracelet_1.jpg",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "Bracelets",
+            "button_text": "view",
+            "button_link": "shopify:\/\/collections\/bracelets",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_Er7VeU": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "collection": "earrings",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "Earrings",
+            "button_text": "View",
+            "button_link": "shopify:\/\/collections\/earrings",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_rphML8": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "collection": "rings",
+            "image": "shopify:\/\/shop_images\/Michelangelo_the_thinker_icarus_kelyoz.jpg",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "RINGS",
+            "button_text": "View",
+            "button_link": "shopify:\/\/collections\/rings",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_qai9bR",
+        "collection_njReaq",
+        "collection_Er7VeU",
+        "collection_rphML8"
+      ],
+      "settings": {
+        "color_scheme": "scheme-3",
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "show_text_outside": false,
+        "space_items": false,
+        "stack_collections": false,
+        "collections_per_row_desktop": 2,
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "slideshow_Qc48iB": {
+      "type": "slideshow",
+      "blocks": {
+        "image_9cEG3c": {
+          "type": "image",
+          "settings": {
+            "subheading": "Tell your story",
+            "title": "Slide 1",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2) 0%, rgba(4, 4, 4, 0.65) 100%)"
+          }
+        },
+        "image_NR49zh": {
+          "type": "image",
+          "settings": {
+            "subheading": "Tell your story",
+            "title": "Slide 2",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2) 0%, rgba(4, 4, 4, 0.65) 100%)"
+          }
+        }
+      },
+      "block_order": [
+        "image_9cEG3c",
+        "image_NR49zh"
+      ],
+      "disabled": true,
+      "settings": {
+        "allow_transparent_header": true,
+        "show_next_section_button": true,
+        "media_size": "auto",
+        "show_initial_transition": false,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#000000",
+        "controls_color": "#ffffff"
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Kelyoz_ring_3.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Kelyoz_ring_3.jpg",
+            "subheading": "Buy 2, get 1 free",
+            "title": "Unique jewelry for a unique style",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "allow_transparent_header": true,
+        "show_next_section_button": true,
+        "media_size": "auto",
+        "show_initial_transition": false,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#000000",
+        "controls_color": "#ffffff"
+      }
+    },
+    "rich_text_kjb9CK": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_bGUDnK": {
+          "type": "subheading",
+          "settings": {
+            "text": "<strong>25,000+ SATISFIED CLIENTS<\/strong>"
+          }
+        },
+        "heading_YmLHmK": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "OUR COMMUNITY",
+            "heading_tag": "h1"
+          }
+        },
+        "liquid_7MBAB7": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div style=\"text-align: center;\" class=\"image-container\">\n    <style>\n        @media (max-width: 767px) {\n            .image-container img {\n                max-width: 30%; \/* Taille pour mobiles *\/\n            }\n        }\n        @media (min-width: 768px) {\n            .image-container img {\n                max-width: 10%; \/* Taille pour ordinateurs *\/\n            }\n        }\n    <\/style>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/2614\/9868\/files\/trustpilot_star.avif?v=1714651617\" alt=\"Trustpilot Star Rating\">\n<\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_bGUDnK",
+        "heading_YmLHmK",
+        "liquid_7MBAB7"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "rings",
+            "products_count": 8,
+            "title": "RINGS",
+            "link_url": "shopify:\/\/collections\/rings",
+            "link_text": "View all"
+          }
+        },
+        "collection_daD793": {
+          "type": "collection",
+          "settings": {
+            "collection": "earrings",
+            "products_count": 8,
+            "title": "",
+            "link_url": "shopify:\/\/collections\/earrings",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection-1",
+        "collection_daD793"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": true,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "DARE THE 'KELYOZ' ADVENTURE WITH OUR UNIQUE TIMELESS PIECES"
+      }
+    },
+    "image_with_text_overlay_bLej7a": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_mPViiX": {
+          "type": "heading",
+          "settings": {
+            "text": "ART-INSPIRED IDEA, ARTISANAL-CLASSIC JEWELRY",
+            "heading_tag": "h4"
+          }
+        },
+        "richtext_TYCii3": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>All stainless steel jewelry are durable, design masterpiece, & timeless elegance.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mPViiX",
+        "richtext_TYCii3"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "sm",
+        "image": "shopify:\/\/shop_images\/Thorn_7.png",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "ss_multicolumns_video_ckeXd7": {
+      "type": "ss-multicolumns-video",
+      "blocks": {
+        "video_HV4LMJ": {
+          "type": "video",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/202405201933_copie_copie_copie_copie.mp4",
+            "controls": false,
+            "autoplay": true,
+            "loop": true,
+            "heading": "",
+            "text": "High-quality 316L stainless steel",
+            "link": "",
+            "link_url": ""
+          }
+        },
+        "video_4TCj46": {
+          "type": "video",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/202405201933_copie_copie_copie_copie_copie.mp4",
+            "controls": false,
+            "autoplay": true,
+            "loop": true,
+            "heading": "",
+            "text": "Crafted to Last",
+            "link": "",
+            "link_url": ""
+          }
+        },
+        "video_NFUwtJ": {
+          "type": "video",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/202405201933_copie_copie_copie_copie (1).mp4",
+            "controls": false,
+            "autoplay": true,
+            "loop": true,
+            "heading": "",
+            "text": "Attention to Detail",
+            "link": "",
+            "link_url": ""
+          }
+        },
+        "video_tfdn8b": {
+          "type": "video",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/202405201933_copie_copie_copie_copie (2).mp4",
+            "controls": false,
+            "autoplay": true,
+            "loop": true,
+            "heading": "",
+            "text": "Superior Durability",
+            "link": "",
+            "link_url": ""
+          }
+        },
+        "video_xbftHL": {
+          "type": "video",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/202405201933_copie_copie_copie_copie (3).mp4",
+            "controls": false,
+            "autoplay": true,
+            "loop": true,
+            "heading": "",
+            "text": "Made with love",
+            "link": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_HV4LMJ",
+        "video_4TCj46",
+        "video_NFUwtJ",
+        "video_tfdn8b",
+        "video_xbftHL"
+      ],
+      "settings": {
+        "heading": "Exceptional Craftsmanship",
+        "heading_custom": true,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 50,
+        "heading_letter": 0,
+        "heading_height": 100,
+        "heading_mb": 4,
+        "heading_align": "center",
+        "text": "",
+        "text_custom": true,
+        "text_font": "josefin_sans_n4",
+        "text_size": 26,
+        "text_letter": 0,
+        "text_height": 100,
+        "text_align": "center",
+        "column_mt": 20,
+        "column_direction": "center",
+        "column_gap": 20,
+        "column_gap_mobile": 20,
+        "column_style": "columns",
+        "column_style_mobile": "slider",
+        "column_row": "4",
+        "column_row_mobile": "1",
+        "slider_view_mobile": 1,
+        "column_radius": 28,
+        "column_padding_horizontal": 16,
+        "column_padding_top": 16,
+        "column_padding_bottom": 16,
+        "numbers": false,
+        "autoplay": false,
+        "autoplay_speed": 3,
+        "nav_size": 40,
+        "nav_size_mobile": 30,
+        "hide_nav": false,
+        "column_number_custom": false,
+        "column_number_font": "josefin_sans_n4",
+        "column_number_size": 36,
+        "column_heading_custom": false,
+        "column_heading_font": "josefin_sans_n4",
+        "column_heading_size": 32,
+        "column_heading_letter": 0,
+        "column_heading_height": 100,
+        "column_heading_mt": 12,
+        "column_text_custom": false,
+        "column_text_font": "josefin_sans_n4",
+        "column_text_size": 22,
+        "column_text_letter": 0,
+        "column_text_height": 100,
+        "column_text_mt": 12,
+        "column_link_width": "regular",
+        "column_link_max": 170,
+        "column_link_padding_horizontal": 8,
+        "column_link_padding_vertical": 8,
+        "column_link_radius": 16,
+        "column_link_custom": false,
+        "column_link_font": "josefin_sans_n4",
+        "column_link_size": 22,
+        "column_link_letter": 0,
+        "column_link_height": 100,
+        "column_link_mt": 12,
+        "column_link_style": "button",
+        "column_image_height": 290,
+        "column_image_max": 290,
+        "column_image_max_mobile": 250,
+        "column_image_radius": 16,
+        "column_video_height": 290,
+        "column_video_radius": 16,
+        "animate": false,
+        "heading_color": "#ffffff",
+        "column_heading_color": "#ffffff",
+        "text_color": "#ffffff",
+        "column_text_color": "#ffffff",
+        "column_link_color": "#ffffff",
+        "column_link_hover_color": "#ffffff",
+        "column_link_bg_color": "#e86940",
+        "column_link_bg_hover_color": "#a04e33",
+        "column_number_color": "#ffffff",
+        "column_number_bg_color": "#e86940",
+        "column_bg_color": "#1c1c1c",
+        "nav_btn_bg": "#ffffff",
+        "nav_btn_hover_bg": "#caaba1",
+        "nav_border": "#caaba1",
+        "nav_border_hover": "#caaba1",
+        "nav_icon": "#caaba1",
+        "nav_hover_icon": "#ffffff",
+        "background_color": "#1c1c1c",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 190,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "featured_collections_z8YftD": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_LpMtL9": {
+          "type": "collection",
+          "settings": {
+            "collection": "artisi",
+            "products_count": 8,
+            "title": "Discover our exclusive Artisí collection",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_LpMtL9"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "Inspired by Masterpieces, Designed to Glow – Art in Colors."
+      }
+    },
+    "shop-the-look": {
+      "type": "shop-the-look",
+      "blocks": {
+        "look_WKWQRx": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Kelyoz_shooting_hand_1_8305a4c2-fbb6-4212-b86f-51137b3d89cf.webp",
+            "hot_spots_background": "#ffffff",
+            "product_1": "david-michelangelo",
+            "product_1_horizontal_position": 52,
+            "product_1_vertical_position": 51,
+            "product_2": "crown-of-thorns",
+            "product_2_horizontal_position": 70,
+            "product_2_vertical_position": 52,
+            "product_3": "",
+            "product_3_horizontal_position": 65,
+            "product_3_vertical_position": 60,
+            "product_4": "",
+            "product_4_horizontal_position": 85,
+            "product_4_vertical_position": 85
+          }
+        },
+        "look_fMKMYE": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Kelyoz_shooting_hand_5.webp",
+            "hot_spots_background": "#ffffff",
+            "product_1": "icarus",
+            "product_1_horizontal_position": 46,
+            "product_1_vertical_position": 58,
+            "product_2": "",
+            "product_2_horizontal_position": 25,
+            "product_2_vertical_position": 40,
+            "product_3": "",
+            "product_3_horizontal_position": 65,
+            "product_3_vertical_position": 60,
+            "product_4": "",
+            "product_4_horizontal_position": 85,
+            "product_4_vertical_position": 85
+          }
+        },
+        "look_NLUMaW": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Thorn_8.png",
+            "hot_spots_background": "#ffffff",
+            "product_1": "thorn",
+            "product_1_horizontal_position": 55,
+            "product_1_vertical_position": 30,
+            "product_2": "",
+            "product_2_horizontal_position": 25,
+            "product_2_vertical_position": 40,
+            "product_3": "",
+            "product_3_horizontal_position": 65,
+            "product_3_vertical_position": 60,
+            "product_4": "",
+            "product_4_horizontal_position": 85,
+            "product_4_vertical_position": 85
+          }
+        },
+        "look-1": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Kelyoz_shooting_hand_4_8f49f2af-1c18-4c47-b2fd-457187580af0.webp",
+            "hot_spots_background": "#ffffff",
+            "product_1": "eos-luna",
+            "product_1_horizontal_position": 55,
+            "product_1_vertical_position": 46,
+            "product_2": "the-thinker",
+            "product_2_horizontal_position": 58,
+            "product_2_vertical_position": 64,
+            "product_3": "",
+            "product_3_horizontal_position": 65,
+            "product_3_vertical_position": 60,
+            "product_4": "",
+            "product_4_horizontal_position": 85,
+            "product_4_vertical_position": 85
+          }
+        },
+        "look_M7TyVG": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lustri3.jpg",
+            "hot_spots_background": "#ffffff",
+            "product_1": "lustri",
+            "product_1_horizontal_position": 52,
+            "product_1_vertical_position": 68,
+            "product_2": "",
+            "product_2_horizontal_position": 25,
+            "product_2_vertical_position": 40,
+            "product_3": "",
+            "product_3_horizontal_position": 65,
+            "product_3_vertical_position": 60,
+            "product_4": "",
+            "product_4_horizontal_position": 85,
+            "product_4_vertical_position": 85
+          }
+        }
+      },
+      "block_order": [
+        "look_WKWQRx",
+        "look_fMKMYE",
+        "look_NLUMaW",
+        "look-1",
+        "look_M7TyVG"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "Shop the look",
+        "content": "",
+        "popover_title": "Shop the look"
+      }
+    },
+    "scrolling_content_gFfxM3": {
+      "type": "scrolling-content",
+      "blocks": {
+        "text_iABYfQ": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>OVER 25,000+ CUSTOMERS WORLDWIDE<\/strong>"
+          }
+        }
+      },
+      "block_order": [
+        "text_iABYfQ"
+      ],
+      "settings": {
+        "separate_section_with_border": false,
+        "scrolling_speed": 0.3,
+        "scroll_direction": "left",
+        "pause_on_hover": false,
+        "text_font": "heading",
+        "text_font_size_mobile": 18,
+        "text_font_size_desktop": 18,
+        "section_vertical_spacing_mobile": 30,
+        "section_vertical_spacing_desktop": 28,
+        "item_horizontal_spacing_mobile": 80,
+        "item_horizontal_spacing_desktop": 120,
+        "background": "#ffffff",
+        "text_color": ""
+      }
+    },
+    "ss_video_slider_if8AL9": {
+      "type": "ss-video-slider",
+      "blocks": {
+        "slide_Ye3BM7": {
+          "type": "slide",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/202411191258.mp4",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "title": "@aronmartinsss｜+ 40K Followers",
+            "stars_count": 5
+          }
+        },
+        "slide_TR3VNi": {
+          "type": "slide",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/2 zedan.mp4",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "title": "@zedan.mutlu I +700K Followers",
+            "stars_count": 5
+          }
+        },
+        "slide_XhMYqa": {
+          "type": "slide",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/202408231407_copie.mp4",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "title": "@joshied I +15K Followers",
+            "stars_count": 5
+          }
+        },
+        "slide_phjkFb": {
+          "type": "slide",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/Jessie 1 sous titres_copie.mp4",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "title": "@jessieasf I +100K Followers",
+            "stars_count": 5
+          }
+        },
+        "slide_89WCpm": {
+          "type": "slide",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/Base 4.mp4",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "title": "@vibra_alto I +1M Followers",
+            "stars_count": 5
+          }
+        }
+      },
+      "block_order": [
+        "slide_Ye3BM7",
+        "slide_TR3VNi",
+        "slide_XhMYqa",
+        "slide_phjkFb",
+        "slide_89WCpm"
+      ],
+      "settings": {
+        "slider_view": 5,
+        "slider_view_mobile": 1.5,
+        "slider_gap": 10,
+        "slider_gap_mobile": 10,
+        "slider_rotate": 0,
+        "card_padding_vertical": 20,
+        "card_padding_vertical_mobile": 20,
+        "card_padding_horizontal": 20,
+        "card_padding_horizontal_mobile": 20,
+        "card_radius": 16,
+        "card_border_thickness": 0,
+        "card_shadow": false,
+        "card_ratio": "portrait",
+        "card_ratio_mobile": "portrait",
+        "card_overlay": 0.2,
+        "content_horizontal_position": "center",
+        "content_horizontal_position_mobile": "center",
+        "content_vertical_position": "end",
+        "content_vertical_position_mobile": "end",
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_size": 16,
+        "title_size_mobile": 16,
+        "title_height": 100,
+        "stars_size": 16,
+        "stars_size_mobile": 16,
+        "stars_mt": 16,
+        "stars_mt_mobile": 16,
+        "hide_stars": false,
+        "use_action": true,
+        "action_size": 40,
+        "action_size_mobile": 40,
+        "action_icon_size": 24,
+        "action_icon_size_mobile": 24,
+        "action_border_thickness": 0,
+        "use_sound": true,
+        "sound_size": 40,
+        "sound_size_mobile": 40,
+        "sound_icon_size": 24,
+        "sound_icon_size_mobile": 24,
+        "sound_border_thickness": 0,
+        "arrow_size": 48,
+        "arrow_size_mobile": 48,
+        "arrow_icon_size": 8,
+        "arrow_icon_size_mobile": 8,
+        "arrow_border_thickness": 0,
+        "arrow_radius": 100,
+        "arrow_hover_effect": "color",
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "card_border_color": "#000000",
+        "card_shadow_color": "#000000",
+        "card_overlay_color": "#000000",
+        "title_color": "#ffffff",
+        "stars_color": "#ffffff",
+        "action_color": "#ffffff",
+        "action_hover_color": "#ffffff",
+        "action_bg_color": "#ffffff",
+        "action_bg_hover_color": "#ffffff",
+        "action_border_color": "#ffffff",
+        "action_border_hover_color": "#ffffff",
+        "sound_icon_color": "#ffffff",
+        "sound_icon_hover_color": "#ffffff",
+        "sound_bg_color": "#ffffff",
+        "sound_bg_hover_color": "#ffffff",
+        "sound_border_color": "#ffffff",
+        "sound_border_hover_color": "#ffffff",
+        "arrow_color": "#ffffff",
+        "arrow_hover_color": "#434343",
+        "arrow_bg_color": "#434343",
+        "arrow_bg_hover_color": "#ffffff",
+        "arrow_border_color": "#000000",
+        "arrow_border_hover_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": false,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "ss_testimonial_8_yemhrB": {
+      "type": "ss-testimonial-8",
+      "blocks": {
+        "slide_xfmrBT": {
+          "type": "slide",
+          "settings": {
+            "stars_count": 5,
+            "heading": "Masterpieces in Miniature: Unique and Artistic Jewelry",
+            "text": "I am absolutely in love with my new piece from this brand! The craftsmanship is exquisite, and the design truly feels like a work of art. Every time I wear it, I receive so many compliments. Highly recommend to anyone looking for unique, artistic jewelry.",
+            "author_date": "William"
+          }
+        },
+        "slide_P4MnQt": {
+          "type": "slide",
+          "settings": {
+            "stars_count": 5,
+            "heading": "Wow 🩶",
+            "text": "Unique and elegant jewelry",
+            "author_date": "Cathrine"
+          }
+        },
+        "slide_xCYMzd": {
+          "type": "slide",
+          "settings": {
+            "stars_count": 5,
+            "heading": "I love it! 😍",
+            "text": "The jewelry from this brand is stunningly beautiful and artistically inspiring. Each piece feels like a mini masterpiece. The attention to detail and the quality of materials used are top-notch. It's clear that a lot of love and creativity go into every item. I will definitely be purchasing more in the future.",
+            "author_date": "Isabella"
+          }
+        },
+        "slide_tknXac": {
+          "type": "slide",
+          "settings": {
+            "stars_count": 5,
+            "heading": "Jewelry That Truly Stands Out 🕯️",
+            "text": "I recently purchased a necklace from this art-inspired jewelry brand, and I couldn't be happier. The design is both elegant and unique, capturing the essence of true artistic expression. It adds a perfect touch of sophistication to any outfit. A must-have for any art lover!",
+            "author_date": "Kaleb"
+          }
+        },
+        "slide_mxinNH": {
+          "type": "slide",
+          "settings": {
+            "stars_count": 5,
+            "heading": "So Many Compliments on My Artistic Jewelry!",
+            "text": "This brand has truly redefined jewelry design. Their pieces are not just accessories but wearable art. The intricate details and unique concepts make each piece stand out. I appreciate the creativity and craftsmanship that goes into every item. These are the perfect statement pieces for any occasion.",
+            "author_date": "Asha"
+          }
+        },
+        "slide_fEAjKQ": {
+          "type": "slide",
+          "settings": {
+            "stars_count": 5,
+            "heading": "Art-Inspired Jewelry at Its Best",
+            "text": "As an art enthusiast, I am thrilled to have found this jewelry brand. Their designs are deeply inspired by various art movements and styles, making each piece truly one-of-a-kind. The quality is outstanding, and the pieces are incredibly versatile. I love how they add a touch of artistic flair to my wardrobe.",
+            "author_date": "Ben"
+          }
+        }
+      },
+      "block_order": [
+        "slide_xfmrBT",
+        "slide_P4MnQt",
+        "slide_xCYMzd",
+        "slide_tknXac",
+        "slide_mxinNH",
+        "slide_fEAjKQ"
+      ],
+      "settings": {
+        "heading": "Our customers tell it better than we do!",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_size_mobile": 24,
+        "heading_height": 130,
+        "heading_align": "center",
+        "rating_text": "Excellent",
+        "rating_text_custom": false,
+        "rating_text_font": "josefin_sans_n4",
+        "rating_text_size": 24,
+        "rating_text_size_mobile": 20,
+        "rating_text_height": 130,
+        "rating_text_mt": 16,
+        "rating": 4.7,
+        "rating_hide": false,
+        "rating_text_hide": false,
+        "rating_align": "center",
+        "stars_count": 5,
+        "stars_size": 28,
+        "stars_size_mobile": 24,
+        "stars_align": "center",
+        "text": "<p>based on <strong>1 067<\/strong> reviews<\/p>",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 20,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "text_align": "center",
+        "text_mt": 16,
+        "slider_width": 80,
+        "slider_view": 3,
+        "slider_view_mobile": 1.2,
+        "slider_gap": 20,
+        "slider_gap_mobile": 20,
+        "slider_mt": 36,
+        "card_padding_vertical": 32,
+        "card_padding_vertical_mobile": 24,
+        "card_padding_horizontal": 40,
+        "card_padding_horizontal_mobile": 24,
+        "card_radius": 16,
+        "card_border_thickness": 0,
+        "card_shadow": true,
+        "card_heading_custom": false,
+        "card_heading_font": "josefin_sans_n4",
+        "card_heading_size": 24,
+        "card_heading_size_mobile": 20,
+        "card_heading_height": 130,
+        "card_heading_align": "center",
+        "card_heading_mt": 16,
+        "card_text_custom": false,
+        "card_text_font": "josefin_sans_n4",
+        "card_text_size": 14,
+        "card_text_size_mobile": 14,
+        "card_text_height": 150,
+        "card_text_align": "center",
+        "card_text_mt": 16,
+        "card_text_more": "View More",
+        "card_text_less": "View Less",
+        "card_count_words": 20,
+        "card_author_date_text_custom": false,
+        "card_author_date_text_font": "josefin_sans_n4",
+        "card_author_date_text_size": 16,
+        "card_author_date_text_size_mobile": 16,
+        "card_author_date_text_height": 130,
+        "card_author_date_text_align": "center",
+        "card_author_date_text_mt": 16,
+        "arrow_size": 50,
+        "arrow_size_mobile": 50,
+        "arrow_icon_size": 28,
+        "arrow_icon_size_mobile": 28,
+        "arrow_border_thickness": 0,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "dots_size": 12,
+        "dots_size_mobile": 12,
+        "dots_show_desktop": false,
+        "dots_show_mobile": false,
+        "button": "",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 16,
+        "button_size_mobile": 14,
+        "button_height": 100,
+        "button_align": "center",
+        "button_mt": 16,
+        "button_padding_vertical": 20,
+        "button_padding_horizontal": 16,
+        "button_radius": 8,
+        "button_border_thickness": 0,
+        "button_color": "#ffffff",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#000000",
+        "button_bg_hover_color": "#000000",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "card_bg_color": "#ffffff",
+        "card_border_color": "#000000",
+        "card_shadow_color": "#00b67a",
+        "card_heading_color": "#000000",
+        "card_text_color": "#000000",
+        "card_author_date_text_color": "#000000",
+        "arrow_color": "#000000",
+        "arrow_hover_color": "#000000",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#ffffff",
+        "arrow_border_color": "#ffffff",
+        "arrow_border_hover_color": "#ffffff",
+        "dots_color": "#000000",
+        "heading_color": "#000000",
+        "rating_text_color": "#000000",
+        "stars_bg_color": "#00b67a",
+        "stars_color": "#ffffff",
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "linear-gradient(180deg, rgba(206, 239, 199, 1), rgba(255, 255, 255, 1) 100%)",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "ss_instafeed_Vhfbez": {
+      "type": "ss-instafeed",
+      "blocks": {
+        "image_C8AfQz": {
+          "type": "image",
+          "settings": {
+            "gallery_photo": "shopify:\/\/shop_images\/Others_do_basic._We_do_extraordinary._Discover_our_stylish_earrings._3.jpg",
+            "gallery_url": ""
+          }
+        },
+        "image_7Lc39A": {
+          "type": "image",
+          "settings": {
+            "gallery_photo": "shopify:\/\/shop_images\/Sunelice_ring.jpg",
+            "gallery_url": ""
+          }
+        },
+        "image_MLnnkE": {
+          "type": "image",
+          "settings": {
+            "gallery_photo": "shopify:\/\/shop_images\/eyes_necklace_2.jpg",
+            "gallery_url": ""
+          }
+        },
+        "image_7FyKnx": {
+          "type": "image",
+          "settings": {
+            "gallery_photo": "shopify:\/\/shop_images\/Design_sans_titre_76_1.jpg",
+            "gallery_url": ""
+          }
+        },
+        "image_pxjQA3": {
+          "type": "image",
+          "settings": {
+            "gallery_photo": "shopify:\/\/shop_images\/Lustri3_3c866aae-4d29-4779-a4b7-74cb22939775.jpg",
+            "gallery_url": ""
+          }
+        },
+        "image_KGxeCU": {
+          "type": "image",
+          "settings": {
+            "gallery_photo": "shopify:\/\/shop_images\/icarus_the_thinker_kelyoz_a6861721-17bc-4a7a-80d5-2b5869a4aac7.jpg",
+            "gallery_url": ""
+          }
+        },
+        "image_Xr8rTY": {
+          "type": "image",
+          "settings": {
+            "gallery_photo": "shopify:\/\/shop_images\/Kelyoz_ring_4.jpg",
+            "gallery_url": ""
+          }
+        },
+        "image_PLPtKE": {
+          "type": "image",
+          "settings": {
+            "gallery_photo": "shopify:\/\/shop_images\/Xena2.jpg",
+            "gallery_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_C8AfQz",
+        "image_7Lc39A",
+        "image_MLnnkE",
+        "image_7FyKnx",
+        "image_pxjQA3",
+        "image_KGxeCU",
+        "image_Xr8rTY",
+        "image_PLPtKE"
+      ],
+      "settings": {
+        "background-color": "#1c1c1c",
+        "text-color": "#ffffff",
+        "hide_image_mobile": 0,
+        "insta_url": "",
+        "instafeed_title": "Join the movement",
+        "hashtag_title": "#Kelyoz",
+        "insta_handle": "@kelyoz_jewel",
+        "header_size": 18,
+        "hashtag_size": 36,
+        "handle_size": 12,
+        "padding_image": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow_4jGRTe",
+    "slideshow_rJfUqG",
+    "featured_collections_Bpn3hg",
+    "ss_video_banner_2_3AckzX",
+    "ss_scrolling_logo_cloud_XPbAYF",
+    "collection_list_WFrB84",
+    "slideshow_Qc48iB",
+    "slideshow",
+    "rich_text_kjb9CK",
+    "featured-collections",
+    "image_with_text_overlay_bLej7a",
+    "ss_multicolumns_video_ckeXd7",
+    "featured_collections_z8YftD",
+    "shop-the-look",
+    "scrolling_content_gFfxM3",
+    "ss_video_slider_if8AL9",
+    "ss_testimonial_8_yemhrB",
+    "ss_instafeed_Vhfbez"
+  ]
+}
