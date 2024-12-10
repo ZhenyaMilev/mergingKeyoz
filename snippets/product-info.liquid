@@ -391,7 +391,7 @@ Supported variables
 
           {%- when 'text' -%}
             {%- if block.settings.text != blank -%}
-              <div class="prose">
+              <div class="prose {% if block.settings.style_2 %}minimal-style{% endif %}">
                 {{- block.settings.text -}}
               </div>
             {%- endif -%}

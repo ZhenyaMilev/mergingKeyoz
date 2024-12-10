@@ -74,7 +74,7 @@ Supported variables
         </gift-card-recipient>
       {%- endif -%}
 
-      <buy-buttons class="buy-buttons {% if show_payment_button %}buy-buttons--has-dynamic{% endif %}" template="{{ product.template_suffix | escape }}" form="{{ form_id }}">
+      <buy-buttons class="buy-buttons product-buy-buttons-custom {% if show_payment_button %}buy-buttons--has-dynamic{% endif %}" template="{{ product.template_suffix | escape }}" form="{{ form_id }}">
         {%- if show_payment_button and atc_button_background == blank and atc_button_text_color == blank -%}
           {%- assign atc_button_style = 'outline' -%}
         {%- else -%}

@@ -74,6 +74,10 @@ Supported variables
               </div>
             </x-modal>
           {%- endif -%}
+
+          {%- if size_label_list contains option_downcase -%}
+            {% render 'ring-size-plugin' %}
+          {%- endif -%}
         </div>
 
         {%- assign name = 'option' | append: option.position -%}
@@ -150,9 +154,9 @@ Supported variables
         {%- endif -%}
       </fieldset>
 
-      {%- if size_label_list contains option_downcase -%}
+      {% comment %} {%- if size_label_list contains option_downcase -%}
         {% render 'ring-size-plugin' %}
-      {%- endif -%}
+      {%- endif -%} {% endcomment %}
       
     {%- endfor -%}
 

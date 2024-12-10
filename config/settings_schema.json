@@ -827,5 +827,16 @@
         "info": "t:theme_settings.favicon.image_info"
       }
     ]
+  },
+  {
+    "name": "Custom settings",
+    "settings": [
+      {
+        "type": "checkbox",
+        "id": "custom_discount_label",
+        "label": "Display discount label",
+        "default": true
+      }
+    ]
   }
 ]

@@ -87,6 +87,8 @@
     {{- 'theme.css' | asset_url | stylesheet_tag: preload: true -}}
     <script src="{{ 'ring-size-plugin.js' | asset_url }}" defer></script>
     <link rel="stylesheet" href="{{ 'ring-size-plugin.css' | asset_url }}">
+    <link rel="stylesheet" href="{{ 'custom-style.css' | asset_url }}">
+    <script src="{{ 'custom.js' | asset_url }}" defer></script> 
   </head>
 
   {% liquid

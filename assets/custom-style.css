@@ -1,0 +1,131 @@
+.product-buy-buttons-custom button:first-child {
+  padding: .81rem 1.75rem;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.price-list--product sale-price.text-on-sale {
+  color: #45AC51;
+}
+
+.price-list--product compare-at-price {
+  color: #b3b3b3;
+}
+
+.discount-info-banner .discount-percentage,
+.discount-info-banner .discount-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.discount-info-banner .discount-info {
+  gap: .5rem
+}
+
+.discount-info-banner .discount-percentage {
+  color: #45AC51;
+  background-color: #e2f5ee;
+  padding: 5px;
+  border-radius: 5px;
+  font-weight: 600;
+  gap: 4px;
+}
+
+.discount-info-banner span {
+  color: #45AC51;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+@media only screen and (max-width: 768px) {
+  .discount-info-banner span {
+    font-size: 10px;
+  }
+}
+
+.price-list--product {
+  row-gap: .5rem;
+}
+
+.product-gallery__thumbnail-scroller {
+  grid-auto-columns: 4.2rem;
+}
+
+.product-sticky-bar .discount-info-banner,
+.quick-buy-modal__content .discount-info-banner {
+  display: none;
+}
+
+.prose.minimal-style {
+  margin-top: -28px;
+  font-size: 12px;
+  text-align: center;
+}
+
+.block-swatch {
+  display: flex;
+  padding: 18px 14px;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #00000033;
+  box-shadow: 0 2px 4px #e4e2decc;
+  border-radius: 8px;
+  min-width: 60px;
+  background: white;
+  color: black;
+}
+
+:checked+.block-swatch, .block-swatch.is-selected {
+  border: 1px solid #000000;
+    box-shadow: inset 0 0 0 1px #000;
+}
+
+.color-swatch .sr-only {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  position: relative;
+  color: transparent;
+}
+
+.color-swatch .sr-only:after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #fff, #00000040 17%, #fff 26% 39%, #00000040 53%, #fff 61%, #00000040 71%, #fff 84% 93%, #00000040);
+  content: "";
+  z-index: 1;
+  opacity: .25;
+}
+
+.color-swatch.rounded-full {
+  border: none;
+}
+
+.color-swatch.rounded-full:after {
+  position: absolute;
+  content: "";
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 2px solid grey;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+}
+
+
+.color-swatch.rounded-full {
+  margin: 0 2px;
+}
+
+div[data-option-selector] .color-swatch.rounded-full:nth-of-type(1) {
+  margin: 0 2px 0 0;
+}
+
+.color-swatch.active::after {
+  border-color: black; /* При активном классе перекрашиваем в чёрный */
+}

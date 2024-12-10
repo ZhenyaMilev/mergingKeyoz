@@ -2823,7 +2823,7 @@ tfoot td {
 
 .color-swatch {
   --swatch-offset: 2px;
-  --swatch-size: 2.125rem;
+  --swatch-size: 2rem;
   --swatch-border-size: 1px;
   --swatch-disabled-strike-color: rgb(var(--border-color));
   width: var(--swatch-size);
